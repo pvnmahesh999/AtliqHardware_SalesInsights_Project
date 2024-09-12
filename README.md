@@ -1,6 +1,7 @@
 # AtliqHardware_SalesInsights_Project1
 Real time data analysis project experience. 
 
+
 Instructions to setup mysql on your local computer
 Follow step in this video to install mysql on your local computer https://www.youtube.com/watch?v=WuBcTJnIuzo
 
@@ -57,3 +58,5 @@ Data Analysis Using Power BI
 ----------------------------
 Formula to create norm_amount column
 = Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)
+
+
