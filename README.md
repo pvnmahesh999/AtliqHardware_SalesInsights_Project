@@ -236,6 +236,9 @@ Shows visualizations from Sales insights :
 | ----------- |
 |![Sales Insights data analysis-AtliQ_page-0001](https://user-images.githubusercontent.com/118357991/234025264-f5f1d7af-2ead-4d9a-b8ae-7524d200b7dd.jpg)|
 
+![alt text](https://github.com/pvnmahesh999/AtliqHardware_SalesInsights_Project/main/Poster.png?raw=true)
+
+
 
 | Profit Analysis |
 | ----------- |
