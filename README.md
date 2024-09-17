@@ -2,7 +2,7 @@
 
 ![Poster for project](https://github.com/pvnmahesh999/AtliqHardware_SalesInsights_Project/blob/main/Poster.png)
 
-![Sales insights AtliQ](https://user-images.githubusercontent.com/118357991/230730818-34393de8-2b5c-46da-83f1-be293b0107b4.png)
+
 
 ## Table of Contents:
 
