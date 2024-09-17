@@ -6,7 +6,7 @@
 
 ## Table of Contents:
 
-- [Problem Statement](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#problem-statement-)
+- [Problem Statement]
 - [Data Discovery](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-discovery-)
 - [Data Analysis using MySQL ](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-analysis-using-mysql-)
 - [Data Cleaning and ETL (Extract, Transform, Load)](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-cleaning-and-etl-extract-transform-load)
