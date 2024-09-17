@@ -7,19 +7,17 @@
 ## Table of Contents:
 
 - [Problem Statement]
-- [Data Discovery](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-discovery-)
-- [Data Analysis using MySQL ](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-analysis-using-mysql-)
-- [Data Cleaning and ETL (Extract, Transform, Load)](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-cleaning-and-etl-extract-transform-load)
-- [Data Modeling](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-modeling)
-- [Data Analysis (DAX)](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#data-analysis--dax)
-- [Build Dashboard Or a Report](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#build-dashboard-or-a-report)
-- [Tools, Software and Libraries](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#tools-software-and-libraries-)
-- [References](https://github.com/yogeshkasar778/Sales_insights_of_data_analysis-AtliQ_Hardware/edit/main/README.md#references-)
+- [Data Discovery]
+- [Data Analysis using MySQL ]
+- [Data Cleaning and ETL (Extract, Transform, Load)]
+- [Data Modeling]
+- [Data Analysis (DAX)]
+- [Build Dashboard Or a Report]
+- [Tools, Software and Libraries]
+- [References]
 
 
 ## Problem Statement :
-
-
 
 In this project performed India based AtliQ hardware company sales insights - A Data Analysis project. 
 
@@ -67,7 +65,7 @@ All he wants is a simple data visualization tool which he can access on daily ba
 
 Completed the Data discovery and then used mySQL for data analysis.
 
-SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer
+SQL database dump is in db.sql file above. Download db.sql file to your local computer
 
 - Importing Data to MySQL workbench
 
@@ -208,7 +206,7 @@ And then dataset was cleaned and transformed, it was ready to the data modeled.
 
 The sales insights data tables as show below:
 
-![Screenshot (14)](https://user-images.githubusercontent.com/118357991/234016242-369bd02e-1ddf-4047-9be4-324c83bd8761.png)
+add screenshot1 here 
 
 ## Data Analysis  (DAX):
 
@@ -238,9 +236,7 @@ Shows visualizations from Sales insights :
 
 | Key Insights |
 | ----------- |
-|![Sales Insights data analysis-AtliQ_page-0001](https://user-images.githubusercontent.com/118357991/234025264-f5f1d7af-2ead-4d9a-b8ae-7524d200b7dd.jpg)|
 
-![alt text](https://github.com/pvnmahesh999/AtliqHardware_SalesInsights_Project/main/Poster.png?raw=true)
 
 
 
@@ -263,7 +259,6 @@ Shows visualizations from Sales insights :
 3.DAX Language 
 
 ## References :
-https://codebasics.io/panel/webinars/purchases
 
 https://www.sqlbi.com/learn/introducing-dax-video-course/0/
 
