@@ -236,7 +236,7 @@ Shows visualizations from Sales insights :
 
 | Key Insights |
 | ----------- |
-
+|![Sales Insights data analysis-AtliQ_page-0002](|![Sales Insights data analysis-AtliQ_page-0002](https://user-images.githubusercontent.com/118357991/234025629-3c2e3dcf-77fb-4c20-acdb-3f92604d1292.jpg)|)|
 
 
 
