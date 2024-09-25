@@ -219,7 +219,7 @@ Key Measures:
   - Revenue = `SUM('sales transactions'[sales_amount])`
   - Revenue Contribution % = `DIVIDE([Revenue],CALCULATE([Revenue],ALL('sales products'),ALL('sales customers'),ALL('sales markets')))`
   - Revenue LY = `CALCULATE([Revenue],SAMEPERIODLASTYEAR('sales date'[date]))`
-  - sales quntity = `SUM('sales transactions'[sales_qty])`
+  - sales quantity = `SUM('sales transactions'[sales_qty])`
   - Total Profit Margin = `SUM('Sales transactions'[Profit_Margin])`
 
 Profit Target:
