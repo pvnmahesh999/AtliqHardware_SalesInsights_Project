@@ -6,7 +6,7 @@
 
 ## Table of Contents:
 
-- [Problem Statement]
+- Problem Statement
 - [Data Discovery]
 - [Data Analysis using MySQL ]
 - [Data Cleaning and ETL (Extract, Transform, Load)]
