@@ -239,15 +239,15 @@ Shows visualizations from Sales insights :
 ![My Image](1.png)
 
 
-
-
 | Profit Analysis |
 | ----------- |
-|![Sales Insights data analysis-AtliQ_page-0002](https://user-images.githubusercontent.com/118357991/234025629-3c2e3dcf-77fb-4c20-acdb-3f92604d1292.jpg)|
+![My Image](2.png)
 
-| Profit Analysis |
+
+| Performance Analysis |
 | ----------- |
-|![Sales Insights data analysis-AtliQ_page-0003](https://user-images.githubusercontent.com/118357991/234025913-3a09f076-e1c7-40a1-9983-d2c8767f252c.jpg)|
+![My Image](33.png)
+
 
 ## Tools, Software and Libraries :
 
