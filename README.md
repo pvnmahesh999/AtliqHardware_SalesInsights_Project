@@ -251,13 +251,15 @@ Shows visualizations from Sales insights :
 
 ## Tools, Software and Libraries :
 
-1.MySQL
+1.SQL
 
-2.Microsoft Power BI
+2.MySQL
 
-3.Power Query Editor
+3.Microsoft Power BI
 
-3.DAX Language 
+4.Power Query Editor
+
+5.DAX Language 
 
 ## References :
 
